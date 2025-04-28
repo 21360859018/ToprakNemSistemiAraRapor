@@ -36,7 +36,8 @@ Görseller:
 
 •	Kullanılan nem Sensörü
 
-(https://github.com/21360859018/ToprakNemSistemiAraRapor/Figure/nemsensörü.jpg)
+![Nem Sensörü](https://github.com/21360859018/ToprakNemSistemiAraRapor/raw/main/Figure/nemsensörü.jpg)
+
 
 ________________________________________
 # 5. Elde Edilen Sonuçlar
