@@ -1,6 +1,7 @@
 # ToprakNemSistemiAraRapor
-AraRapor.md
-1. Proje Konusu 
+
+# 1. Proje Konusu
+   
 Toprağın nemini ölçen ve ölçüm sonuçlarını internet üzerinden kullanıcılara bildiren bir sistem geliştirilmesi.
 ________________________________________
 # 2. Özet 
