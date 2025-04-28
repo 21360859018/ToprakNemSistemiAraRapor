@@ -33,8 +33,11 @@ ________________________________________
 •	ESP32 kurulumu ve kod uyarlamaları için hazırlıklara başlandı.
 
 Görseller:
-•	Sensör bağlantısı:
-•	Arduino ve sensör bağlantısı:
+
+•	Kullanılan nem Sensörü
+
+(https://github.com/21360859018/ToprakNemSistemiAraRapor/raw/main/Figure/nemsensörü.jpg)
+
 ________________________________________
 # 5. Elde Edilen Sonuçlar
 
