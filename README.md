@@ -34,9 +34,9 @@ ________________________________________
 
 Görseller:
 
-•	Kullanılan nem Sensörü
+•	Kullanılan nem Sensörü Bağlantı Şeması
 
-<img src="https://github.com/21360859018/ToprakNemSistemiAraRapor/raw/main/Figure/nemsensörü.jpg" width="300" />
+<img src="https://github.com/21360859018/ToprakNemSistemiAraRapor/raw/main/Figure/sekil1.png" width="300" />
 
 
 ________________________________________
