@@ -36,7 +36,7 @@ Görseller:
 
 •	Kullanılan nem Sensörü Bağlantı Şeması
 
-<img src="https://github.com/21360859018/ToprakNemSistemiAraRapor/raw/main/Figure/sekil1.png" width="300" />
+<img src="https://github.com/21360859018/ToprakNemSistemiAraRapor/raw/main/Figure/sekil1.png" width="400" />
 
 
 ________________________________________
