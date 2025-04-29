@@ -37,7 +37,12 @@ Görseller:
 •	Kullanılan nem Sensörü Bağlantı Şeması
 
 <img src="https://github.com/21360859018/ToprakNemSistemiAraRapor/raw/main/Figure/sekil1.png" width="400" />
+( Bu görsele ek olarak nem sensörünün A0 çıkışını ardunionun A0 pinine bağladık.)
 
+
+•	Kullanılan nem Sensörü Bağlantı Şeması
+
+<img src="https://github.com/21360859018/ToprakNemSistemiAraRapor/raw/main/Figure/sekil2.jpg" width="400" />
 
 ________________________________________
 # 5. Elde Edilen Sonuçlar
