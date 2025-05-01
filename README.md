@@ -42,7 +42,7 @@ Görseller:
 
 •	Kullanılan nem Sensörü Bağlantı Şeması
 
-<img src="https://github.com/21360859018/ToprakNemSistemiAraRapor/raw/main/Figure/sekil2.jpg" width="400" />
+<img src="https://github.com/21360859018/ToprakNemSistemiAraRapor/raw/main/Figure/sekil2.jpg" width="300" />
 
 ________________________________________
 # 5. Elde Edilen Sonuçlar
